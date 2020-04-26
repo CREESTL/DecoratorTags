@@ -1,8 +1,7 @@
 # DecoratorTags
-First version of decoration 
-Пример использования: 
-Пожалуйста, введите путь к файлу, который вы бы хотели перевести в HTML формат: 
-C:\Users\дом\DecoratorTags\src\ru\gushin\ngtu\ivt\StudentPojo.java
-Работа успешно завершена!
-Запись была произведена в файл C:\Users\дом\DecoratorTags\result.html
-Далее открываем файл, в котором есть красивый код с подцветкой:)
+This is a project me and my groupmates created for laboratory work at university
+### Functionality
+- Run `"Main.java"` 
+- Input a path to the file with your `Java` code
+- The program will create an `.html` copy of your code so it can be seen in a browser
+- Open `result.html` file via any browser
